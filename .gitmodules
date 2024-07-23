@@ -1,0 +1,9 @@
+[submodule "clz-blog/themes/typo"]
+	path = clz-blog/themes/typo
+	url = https://github.com/tomfran/typo.git
+[submodule "clz-blog/themes/hugo-book"]
+	path = clz-blog/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "clz-blog/themes/PaperMod"]
+	path = clz-blog/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
