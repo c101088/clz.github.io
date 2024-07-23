@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://clz.github.io/sitemap.xml
